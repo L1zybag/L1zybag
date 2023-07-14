@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @L1zybag
-- 👀 I’m interested in Skateboard and hate that don't write notes
-- 🌱 I’m currently learning ASP.NET and become a better one
-- 💞️ I’m looking to collaborate on ..
+- 👋 Hi, I’m @L1zybag a full Stack Developer, prefer backend
+- 🌱 I’m good at JAVA、.NET、Python and frontend
+- 👀 I’m interested in Skateboard and dislike non-inspiring environment
+- 💞️ I’m looking for a really good job
 - 📫 How to reach me 409959613@qq.com
 
 <!---
